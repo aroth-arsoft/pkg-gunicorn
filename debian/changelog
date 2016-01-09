@@ -1,3 +1,9 @@
+gunicorn (19.4.1-1ubuntu1.2) wily; urgency=medium
+
+  * try to fix precise errors by dropping python3
+
+ -- Andreas Roth <aroth@arsoft-online.com>  Sat, 09 Jan 2016 15:31:21 +0100
+
 gunicorn (19.4.1-1ubuntu1.1) wily; urgency=medium
 
   * backport to active ubuntu suites
