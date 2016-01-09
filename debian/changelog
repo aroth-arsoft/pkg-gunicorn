@@ -1,3 +1,9 @@
+gunicorn (19.4.1-1ubuntu1.1) wily; urgency=medium
+
+  * backport to active ubuntu suites
+
+ -- Andreas Roth <aroth@arsoft-online.com>  Sat, 09 Jan 2016 15:12:25 +0100
+
 gunicorn (19.4.1-1ubuntu1) xenial; urgency=medium
 
   * Merge with Debian; remaining changes:
